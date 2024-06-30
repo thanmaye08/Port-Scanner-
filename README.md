@@ -28,6 +28,6 @@ This project is based on a guided project from the Udemy course "Python Coding P
 ### Installation
 Clone the repository and install the dependencies:
 ```sh
-git clone https://github.com/thanmaye08/port-scanner.git
+git clone https://github.com/thanmaye08/Port-Scanner-.git
 cd port-scanner
 pip install -r requirements.txt

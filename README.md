@@ -25,9 +25,6 @@ This project is based on a guided project from the Udemy course "Python Coding P
 - Python 3.x
 - Required Python packages: `pyfiglet`, `argparse`
 
-### Installation
-Clone the repository and install the dependencies:
-```sh
-git clone https://github.com/thanmaye08/Port-Scanner-.git
-cd port-scanner
-pip install -r requirements.txt
+### Running the Scanner
+To run the scanner, use the following command:
+python port_scanner.py target [options]
